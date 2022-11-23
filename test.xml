@@ -1,0 +1,19 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Abhishek">
+<test name="mrngReport">
+<classes>
+<class name="sep16.firstTestNGClass">
+</class>
+<class name="sep17.SecondTestNG">
+</class>
+<class name="sep17.ThirdTestNGClass">
+</class>
+
+</classes>
+
+
+</test>
+
+ </suite>

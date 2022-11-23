@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Abhishek">
+  <test name="Report1">
+    <classes>
+      <class name="sep17.ThirdTestNGClass"/>
+     </classes>
+     
+     
+  </test> <!-- Report -->
+  <test name="Report2">
+  <classes>
+   <class name="sep17.ThirdTestNGClass"/>
+      </classes>
+      </test>
+      
+</suite> <!-- Abhishek -->

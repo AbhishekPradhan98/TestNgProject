@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Abhishek]">
+  <test name="Report1(failed)">
+    <classes>
+      <class name="sep17.ThirdTestNGClass">
+        <methods>
+          <include name="roles"/>
+          <include name="setUp"/>
+          <include name="branches"/>
+          <include name="employee"/>
+          <include name="users"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- sep17.ThirdTestNGClass -->
+    </classes>
+  </test> <!-- Report1(failed) -->
+  <test name="Report2(failed)">
+    <classes>
+      <class name="sep17.ThirdTestNGClass">
+        <methods>
+          <include name="roles"/>
+          <include name="setUp"/>
+          <include name="branches"/>
+          <include name="employee"/>
+          <include name="users"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- sep17.ThirdTestNGClass -->
+    </classes>
+  </test> <!-- Report2(failed) -->
+</suite> <!-- Failed suite [Abhishek] -->
